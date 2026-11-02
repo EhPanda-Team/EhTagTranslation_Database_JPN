@@ -1,0 +1,21 @@
+{
+  "upstream_release": "v7.29530.1",
+  "files": {
+    "upstream-db.raw.json": {
+      "url": "https://github.com/EhTagTranslation/Database/releases/download/v7.29530.1/db.raw.json",
+      "sha256": "af61d5fc34f8485ee77f96841ac4b0a12444880fb3f8accbbfa252b6b5c63dd4"
+    },
+    "upstream-LICENSE.md": {
+      "url": "https://raw.githubusercontent.com/EhTagTranslation/Database/v7.29530.1/LICENSE.md",
+      "sha256": "b6c4452f59b6c8d4bdae7011c6554c49d1aa2b22a340488edf32b8974c9b2b70"
+    },
+    "baseline.json": {
+      "url": "previous reviewed db.raw.json",
+      "sha256": "c5dab892d575f8c9e4ad13e3a738c9c61f50b8b544e499bc9071bb065b70fe22"
+    },
+    "e-hentaidb.html": {
+      "url": "https://e-hentaidb.com/tag/",
+      "sha256": "290422b85f847f64baa1235e4b91fb1eb7296a5f7039151417d88de498b4c066"
+    }
+  }
+}
